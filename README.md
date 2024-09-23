@@ -27,7 +27,7 @@ prueba tecnica desarrollador web DNA Music por jose bohorquez desarrollador full
 - correo: josejbohorquezd@gmail.com
 - Whatsapp: 3178773186
 - Telefono: (+57) 3178773186
-- linkedin: https://www.linkedin.com/in/jose-bohorquez-full-stack-middle-software-developer-php/
+- linkedin: https://www.linkedin.com/in/jose-bohorquez-full-stack-software-developer/
 - github: https://github.com/Jose-Bohorquez
 - portafolio: https://jose-bohorquez.github.io/
 
