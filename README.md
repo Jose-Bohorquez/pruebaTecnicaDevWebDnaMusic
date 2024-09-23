@@ -18,7 +18,7 @@ prueba tecnica desarrollador web DNA Music por jose bohorquez desarrollador full
 - copiar y pegar el { .env.example }, renombrarlo para que quede como { .env }
 - crear base de datos ( se debe crear localmente y indicar el nombre en el { .env }, en el campo { DB_DATABASE=(aca se pone el nombre de la base de datos que se creo) } )
 - correr las migracces con ( php artisan migrate / php artisan migrate:refresh)
-- despues ejecutar elñ proyecto con { php artisan serve } y le dara la URL donde se puede apreciar el proyecto deplegado
+- despues ejecutar el proyecto con { php artisan serve } y le dara la URL donde se puede apreciar el proyecto deplegado
 - sin embargo se puede evidenciar y apreciar por las proximas 48 horas en { https://dev-and-test.online/ }
 
 
