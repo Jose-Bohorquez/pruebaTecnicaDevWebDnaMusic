@@ -7,6 +7,7 @@ prueba tecnica desarrollador web DNA Music por jose bohorquez desarrollador full
 - laravel/tinker (^2.9")
 - laravel/ui (^4.5")
 - phpmailer/phpmailer (^6.9)
+- laravel/vite
 - TailwindCss CDN
 - MySql
 
@@ -30,6 +31,6 @@ prueba tecnica desarrollador web DNA Music por jose bohorquez desarrollador full
 - github: https://github.com/Jose-Bohorquez
 - portafolio: https://jose-bohorquez.github.io/
 
-# 🎉 Gracias
+# 🎉 agradecimeintos
 - gracias a ti que estas leyendo esto, por tu tiempo, atencion y disposicion
 
